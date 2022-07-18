@@ -19,6 +19,7 @@
 - Your Backend Server will run on localhost:8082
 
 - To disable Cors for your application make sure you change the URL of the restConfiguration in each of the controller files
+
 ![image](https://user-images.githubusercontent.com/54632221/179567658-10670a8f-3892-4849-8a90-1c067e8e9170.png)
 
 - If Spring Security asks for User Credentials for the backend server add these lines to src/main/resources/application.properties file
