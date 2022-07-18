@@ -9,6 +9,7 @@
 ![image](https://user-images.githubusercontent.com/54632221/179565942-12af98e7-0549-423b-ba6a-c39a329461cc.png)
 
 - Enter your Github URI of the repository > Select the Branch > Select the Directory to clone the repository > Click on Finish
+
 ![image](https://user-images.githubusercontent.com/54632221/179566577-60176a7b-0b7c-46f1-bc4a-d99c0ad6275a.png)
 
 - Go to src/main/resources/application.properties add your Database Configuration of MySQL
